@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "cv-mara"
+  title: "Mara Braddy"
   navbar:
     left:
       - href: index.qmd
