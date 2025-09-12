@@ -8,9 +8,9 @@ editor: visual
 <strong>Contact Info</strong>
 :::
 
-|                         |              |
-|-------------------------|--------------|
-| marabraddy12\@gmail.com | 435-890-6195 |
+::: {style="text-align:center"}
+marabraddy12\@gmail.com, 435-890-6195
+:::
 
 ## Education
 
@@ -45,3 +45,20 @@ editor: visual
 -   Farm Volunteer and Communications Intern, Groundswell
 
 -   Board Member, Sustainable Finger Lakes
+
+
+::: {.columns}
+::: {.column width="60%"}
+Master of Professional Studies, Natural Resources and the Environment
+:::
+::: {.column width="40%" style="text-align:right"}
+Cornell University
+:::
+::::
+:::: {.columns style="margin-top:0.25rem"}
+::: {.column width="60%"}
+:::
+::: {.column width="40%" style="text-align:right"}
+Expected Graduation: May 2026
+:::
+::::
