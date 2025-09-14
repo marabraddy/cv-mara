@@ -1,7 +1,17 @@
 ---
-title: "cv-mara"
+title: "Mara Braddy"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mara-braddy/
+    - text: GitHub
+      href: https://github.com/marabraddy
+    - text: Email
+      href: mailto:marabraddy12@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Professionally, I am interested in adapative land management and using agroforestry practices as a way to preserve biodiversity in forested landscapes. Unprofessionally, I'm a circus artist who can't be stopped from going upside, climbing ropes, and pursuing the perfect handstand.
